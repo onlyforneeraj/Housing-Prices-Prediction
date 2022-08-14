@@ -31,29 +31,12 @@ housing_data.csv
 Features advised by the Lasso Regression model explain 87% (R2) of the variability in the price. And SalePrice advised by the model can be $28000 (RMSE) less or more than the actual value.
 
 Optimal value of alpha for Ridge regression: 3
+
 Optimal value of alpha for Lasso regression: 0.1
 
 Conclusion from the most significant attributes:
 
-TotalBsmtSF
-2ndFlrSF
-OverallQual
-RoofMatl_WdShngl
-TotRmsAbvGrd
-Neighborhood_NoRidge
-Neighborhood_StoneBr
-LotArea
-OverallCond
-GarageCars
-Neighborhood_NridgHt
-Foundation_Slab
-Neighborhood_Crawfor
-FullBath
-YearBuilt
-SaleType_New
-BsmtFullBath
-LandContour_HLS
-KitchenQual
+TotalBsmtSF, 2ndFlrSF, OverallQual, RoofMatl_WdShngl, TotRmsAbvGrd, Neighborhood_NoRidge, Neighborhood_StoneBr, LotArea, OverallCond, GarageCars, Neighborhood_NridgHt, Foundation_Slab, Neighborhood_Crawfor, FullBath, YearBuilt, SaleType_New, BsmtFullBath, LandContour_HLS, KitchenQual, 
 
 ## Technologies Used
 - Python - version 3.6
